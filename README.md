@@ -63,7 +63,7 @@ I'm 19 and I am a System Development and Analysis student with the eager of lear
 
 <div align="center">
   <a href="https://github.com/paulorayann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorayann&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
