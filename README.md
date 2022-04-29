@@ -26,7 +26,7 @@ I'm 19 and I am a System Development and Analysis student with the eager of lear
 
 - 🌱 I’m currently learning Node.js, Javascript and React Native
 
-- 👨‍💻 I'm currently in a scholarship from Compass.UOL company
+- 👨‍💻 I'm currently in a scholarship from Compass.UOL company <img src="img/uol-icon.svg" width="25px">
 
 - 📫  You can chat and interact with me in my [LinkedIn](https://www.linkedin.com/in/paulorayann/) and [Discord](https://discordapp.com/users/rayann#9577)
 
@@ -34,7 +34,28 @@ I'm 19 and I am a System Development and Analysis student with the eager of lear
 
 - 👷 I’m working on this README (WIP)
 
+----
+<br>
+
+## 🖥️ Languages and Tools
 </br>
+
+<div>
+
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title ="HTML5"/>
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title = "CSS3" />
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" title = "JavaScript" />
+<img align="left" alt="NodeJs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" title = "NodeJs" />
+<img align="left" alt="ReactNative" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" title = "ReactNative" />
+<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" title = "Java" />
+<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" title = "MongoDB" />
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" title = "MySQL" />
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title = "Git" />
+<img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" title = "Github" />
+<img align="left" alt="VSCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title = "VSCode" />
+</div>
+
+<br></br>
 
 ----
 </br></br>
