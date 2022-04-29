@@ -3,8 +3,9 @@
 
 <div align = "center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorayann)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulorayann/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorayann)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rayann#9577)
 
 </div>
 
@@ -21,27 +22,32 @@ I'm 19 and I am a System Development and Analysis student with the eager of lear
 
 ## About me 😃
 
-📌 I'm from Belém/PA - Brasil
+- 📌 I'm from Belém/PA - Brasil
 
-🌱 I’m currently learning Node.js and Javascript 
+- 🌱 I’m currently learning Node.js, Javascript and React Native
 
-📫  You can chat and interact with me in my [LinkedIn](https://www.linkedin.com/in/paulorayann/) and [Instagram](https://www.instagram.com/paulorayann/)
+- 👨‍💻 I'm currently in a scholarship from Compass.UOL company
 
-🎮 I love gaming in my spare time
+- 📫  You can chat and interact with me in my [LinkedIn](https://www.linkedin.com/in/paulorayann/) and [Discord](https://discordapp.com/users/rayann#9577)
 
-👷 I’m currently working on this README (WIP)
+- 🎮 I love gaming in my spare time
+
+- 👷 I’m working on this README (WIP)
 
 </br>
 
 ----
 </br></br>
 
-<a href="https://github.com/paulorayann">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/paulorayann">
-  <img align="middle" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulorayann&layout=&langs_count=8&theme=radical" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/paulorayann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorayann&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
+
 
 </br></br></br>
 
