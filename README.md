@@ -1,6 +1,5 @@
 
-<h1 align="left">Hi there, I'm Paulo Rayann <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="8px"></h1>
-
+<h1 align="center"><img src="./img/hi.gif" height="30"width="30px">Hi there, I'm Paulo Rayann</h1>
 <div align = "center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulorayann/)
