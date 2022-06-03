@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there, I'm Paulo Rayann <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm Paulo Rayann <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"></h1>
 
 <div align = "center">
 
