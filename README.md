@@ -12,7 +12,7 @@
 
 ## Glad to meet you!
 
-I'm 20 and I am a System Development and Analysis student with the eager of learning new languages and to meet new people in the area. 
+I'm 20 and I am a technology fond with the eager of learning new languages and meet new people in the area. 
 
 <p align="center">
   <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="450">
@@ -22,15 +22,13 @@ I'm 20 and I am a System Development and Analysis student with the eager of lear
 
 - 📌 I'm from Belém/PA - Brasil
 
-- 🌱 I’m currently learning Node.js, Javascript and React Native
+- 🎒 Graduated in System Analysis and Development
 
-- 👨‍💻 I'm currently in a scholarship from Compass.UOL company <img src="img/uol-icon.svg" width="25px">
+- 👨‍💻 I'm currently working as a Node.js Developer in Compass.UOL <img src="img/uol-icon.svg" width="25px">
 
-- 📫  You can chat and interact with me in my [LinkedIn](https://www.linkedin.com/in/paulorayann/) and [Discord](https://discordapp.com/users/rayann#9577)
+- 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/paulorayann/) and [Discord](https://discordapp.com/users/rayann#9577)
 
 - 🎮 I love gaming in my spare time
-
-- 👷 I’m working on this README (WIP)
 
 ----
 <br>
