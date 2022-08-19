@@ -12,7 +12,7 @@
 
 ## Glad to meet you!
 
-I'm 20 and I am a technology passionate with the eager of learning new languages and meet new people in the area. 
+I'm 20 and I am a technology passionate with the eager of improve myself and meet new people in the area. 
 
 <p align="center">
   <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="450">
