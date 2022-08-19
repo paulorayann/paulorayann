@@ -56,8 +56,8 @@ I'm 20 and I am a technology passionate with the eager of improve myself and mee
 
 <div align="center">
   <a href="https://github.com/paulorayann">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorayann&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorayann&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorayann&layout=compact&langs_count=7&theme=radical"/>
     </a>
 </div>
 
